@@ -2,7 +2,7 @@
 My bspwm and polybar config
 
 Required Programs:  
-`
+`  
 bspwm  
 dmenu
 feh
