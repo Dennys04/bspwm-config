@@ -7,6 +7,7 @@ dmenu
 feh  
 kitty  
 light  
+pamixer  
 polybar  
 pulseaudio  
 sxhkd  
