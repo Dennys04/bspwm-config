@@ -26,7 +26,6 @@ noto-fonts-emoji
 noto-fonts-extra  
 
 ## Polybar features  
-working as of 16/01/2022  
 click volume module to mute/unmute and scroll on it to change volume  
 click on date/time module to toggle date/time  
 
