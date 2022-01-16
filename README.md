@@ -3,7 +3,7 @@ My bspwm and polybar config
 
 Required Programs:
 `
-bspwm
+bspwm  
 dmenu
 feh
 kitty
