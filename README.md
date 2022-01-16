@@ -8,6 +8,7 @@ feh
 kitty  
 light  
 pamixer  
+picom  
 polybar  
 pulseaudio  
 sxhkd  
