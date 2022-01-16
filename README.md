@@ -4,6 +4,7 @@ My bspwm and polybar config
 ## Required Programs:  
 bspwm  
 dmenu  
+dunst  
 feh  
 kitty  
 light  
