@@ -9,7 +9,8 @@ kitty
 light  
 polybar  
 pulseaudio  
-sxhkd 
+sxhkd  
+
 (xorg stuff used to start bspwm and control backlight and cursor)  
 xorg-xserver  
 xorg-xbacklight  
