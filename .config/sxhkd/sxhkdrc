@@ -19,11 +19,14 @@ XF86MonBrightnessUp
 	light -s sysfs/backlight/intel_backlight -A 10
 XF86MonBrightnessDown
 	light -s sysfs/backlight/intel_backlight -U 10
+	
 # Manage volume
-XF86Audio{Raise,Lower}Volume
-	change-volume {up,down}
+XF86AudioLowerVolume
+	pamixer -u && pamixer -d 5
+XF86AudioRaiseVolume
+	pamixer -u && pamixer -i 5
 XF86AudioMute
-	change-volume mute
+	pamixer -t
 
 #
 # bspwm hotkeys
