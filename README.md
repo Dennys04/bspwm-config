@@ -13,7 +13,7 @@ sxhkd
 xorg-xbacklight  
 xorg-xsetroot  
 
-<br/>
+<br/>  
 Fonts installed:  
 noto-fonts  
 noto-fonts-cjk  
