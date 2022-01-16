@@ -1,7 +1,7 @@
 # bspwm-config
 My bspwm and polybar config
 
-Required Programs:  
+## Required Programs:  
 bspwm  
 dmenu  
 feh  
@@ -13,7 +13,7 @@ sxhkd
 xorg-xbacklight  
 xorg-xsetroot  
   
-Fonts installed:  
+## Fonts installed:  
 noto-fonts  
 noto-fonts-cjk  
 noto-fonts-emoji  
