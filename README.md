@@ -11,7 +11,7 @@ polybar
 pulseaudio  
 sxhkd  
 
-(xorg stuff used to start bspwm and control backlight and cursor)  
+**xorg stuff used to start bspwm and control backlight and cursor**  
 xorg-xserver  
 xorg-xbacklight  
 xorg-xinit  
