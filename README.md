@@ -1,7 +1,7 @@
 # bspwm-config
 My bspwm and polybar config
 
-Required Programs:
+Required Programs:  
 `
 bspwm  
 dmenu
