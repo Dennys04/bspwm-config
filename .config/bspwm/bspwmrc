@@ -18,6 +18,9 @@ xsetroot -cursor_name left_ptr &
 # Start picom
 picom &
 
+# Start dunst
+dunst &
+
 # Start X wallpaper.
 feh --bg-scale "$HOME/wallpaper.jpg" &
 
