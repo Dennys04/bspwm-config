@@ -12,8 +12,7 @@ pulseaudio
 sxhkd  
 xorg-xbacklight  
 xorg-xsetroot  
-
-<br/>  
+  
 Fonts installed:  
 noto-fonts  
 noto-fonts-cjk  
