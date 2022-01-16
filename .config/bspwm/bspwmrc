@@ -13,10 +13,13 @@ bspc config borderless_monocle   true
 bspc config gapless_monocle      true
 
 # Fix cursor.
-xsetroot -cursor_name left_ptr
+xsetroot -cursor_name left_ptr &
+
+# Start picom
+picom &
 
 # Start X wallpaper.
-feh --bg-scale "$HOME/wallpaper.jpg"
+feh --bg-scale "$HOME/wallpaper.jpg" &
 
 # Run polybar.
-bash "${HOME}/.config/polybar/launch.sh"
+bash "${HOME}/.config/polybar/launch.sh" &
