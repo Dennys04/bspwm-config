@@ -25,6 +25,9 @@ noto-fonts-cjk
 noto-fonts-emoji  
 noto-fonts-extra  
 
+## Icon theme  
+Papirus-icon-theme
+
 ## Polybar features  
 click volume module to mute/unmute and scroll on it to change volume  
 click on date/time module to toggle date/time  
