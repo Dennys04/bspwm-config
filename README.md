@@ -23,5 +23,10 @@ noto-fonts-cjk
 noto-fonts-emoji  
 noto-fonts-extra  
 
+## Polybar features  
+working as of 16/01/2022  
+click volume module to mute/unmute and scroll on it to change volume  
+click on date/time module to toggle date/time  
+
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/95054777/149671804-747a6fe0-8151-49ca-bbd5-826d6fe2a102.png)
