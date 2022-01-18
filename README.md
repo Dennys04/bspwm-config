@@ -25,9 +25,10 @@ noto-fonts
 noto-fonts-cjk  
 noto-fonts-emoji  
 noto-fonts-extra  
+fira-Code  
 
 ## Icon theme  
-Papirus-icon-theme
+papirus-icon-theme
 
 ## Polybar features  
 click volume module to mute/unmute and scroll on it to change volume  
