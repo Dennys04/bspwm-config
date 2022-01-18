@@ -25,7 +25,6 @@ noto-fonts
 noto-fonts-cjk  
 noto-fonts-emoji  
 noto-fonts-extra  
-fira-Code  
 
 ## Icon theme  
 papirus-icon-theme
